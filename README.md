@@ -1,12 +1,14 @@
 # Meta Learning with MAML
 ## Introduction
 This is a MAML implementation for Meta Learning.  
-![image](https://github.com/byunghyun23/meta-learning/tree/main/assets/fig1.png)  
+
+![image](https://github.com/byunghyun23/meta-learning/blob/main/assets/fig1.png)  
 
 ## Dataset
 We used Omniglot dataset.  
 The model is trained using support and query data.  
-![image](https://github.com/byunghyun23/meta-learning/tree/main/assets/fig2.png)  
+
+![image](https://github.com/byunghyun23/meta-learning/blob/main/assets/fig2.png)  
 You can see that the data has been downloaded to
 ```
 --dataset
@@ -28,4 +30,4 @@ And the MAML model file is created
 ```
 
 ## Results
-![image](https://github.com/byunghyun23/meta-learning/tree/main/assets/fig3.png)
+![image](https://github.com/byunghyun23/meta-learning/blob/main/assets/fig3.png)
