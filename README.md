@@ -4,6 +4,11 @@ This is a MAML implementation for Meta Learning.
 
 ![image](https://github.com/byunghyun23/meta-learning/blob/main/assets/fig1.png)  
 
+## Requirements
+```
+!pip install torch=1.7.1+cu110 torchmeta==1.7.0
+```
+
 ## Dataset
 We used Omniglot dataset.  
 The model is trained using support and query data.  
